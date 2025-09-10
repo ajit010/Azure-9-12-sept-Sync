@@ -4,7 +4,7 @@ Azure Admin Associate :
 
 
 
-1. Create Azure free-tier account ..
+# Task 1. Create Azure free-tier account ..
 
 
 github.com  -- optional 
@@ -20,7 +20,8 @@ smb (445)
 
 
 
-2. Create a Budget in Azure account .
+
+# Task 2. Create a Budget in Azure account .
 
 (set  a scope -- "present subscription"
 
@@ -80,7 +81,8 @@ user10-rg - 3 vms, 2 db, 1 ntwrk
 
 
 
-4.  Create a WIndows based VM :
+
+# Task 4.  Create a WIndows based VM :
 
 
 -- Name - demp-windows-machine
@@ -105,14 +107,14 @@ user10-rg - 3 vms, 2 db, 1 ntwrk
 
 
 
-5. To ping into ip address of windows VM
+# Task 5. To ping into ip address of windows VM
 
 -- step 1 - add a new rule in network security group (ICMP)
 
 -- sstep 2 -- disable firewall in remote windows machine
 
 
-6. To view data disk in windows file explorer
+# Task 6. To view data disk in windows file explorer
 
 -- go to disk management, initialize disk 2 and create a new partition by adding / assigning a new character to new volume ,,
 
